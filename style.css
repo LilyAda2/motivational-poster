@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  color: white
+}
+
+h1 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: xx-large;
+  color: purple;
+  text-transform: uppercase;
+}
+
+img {
+  margin-top: 70px;
+  border: 5px dashed yellow;
+  height: 350px;
+  width: 500px;
+}
+
+p {
+  font-family: "Caveat", serif;
+  font-size: x-large;
+
+}
+
+
+.container  {
+  width: 50%;
+  margin-left: 35%;
+}
+
+.center-text {
+  text-align: center;
+  margin-right: 25%;
+  margin-bottom: 0px;
+
+}
+
+
